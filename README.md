@@ -2,12 +2,12 @@
 Complete setup termux and install nethunter
 
 # How to use
-After install termux type termux-setup-storage (should download my script with zip)
+After install termux type termux-setup-storage (should download zip and unzip in file explorer app) after unzip zip file
 
-- cp $HOME/storage/downloads/<my script zip name> <new zip name>
-- unzip <my script zip name> && chmod +x setup
-- ./setup or bash setup
-- Take a seat and drink some coffe or tea
+- cp $HOME/storage/downloads/setup <new file name>
+- unzip <new file name> && chmod +x <new file name>
+- ./<new file name> or bash <new file name>
+- Take a seat and drink some coffe or tea and wait
   
 # IF YOU GET ERROR OR SOMETHING TO MY SCRIPT
 - please check my script first before issues
