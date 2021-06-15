@@ -1,6 +1,10 @@
 # Termux-Nethunter
 Complete setup termux and install nethunter
 
+# Reuirements
+- Termux termux-setup-storage
+- Brain.exe
+
 # How to use
 After install termux type termux-setup-storage (should download zip and unzip in file explorer app) after unzip zip file
 
