@@ -13,6 +13,8 @@ After install termux type termux-setup-storage (should download zip and unzip in
 - ./<new file name> or bash <new file name>
 - Take a seat and drink some coffe or tea and wait
 - If you need to add extra keys type exit logout nethunter and chmod +x extra_keys && bash extra_keys 
+
+# *AFTER INSTALLED NETHUNTER YOU WILL GET KALI LINUX TOOLS + NGROK NON TOKEN   
   
 # IF YOU GET AN ERROR OR SOMETHING TO MY SCRIPT
 - please check my script first before issues
