@@ -1,7 +1,7 @@
 # Termux-Nethunter
 Complete setup termux and install nethunter
 
-#How to use
+# How to use
 After install termux type termux-setup-storage (should download my script with zip)
 
 - cp $HOME/storage/downloads/<my script zip name> <new zip name>
@@ -9,7 +9,7 @@ After install termux type termux-setup-storage (should download my script with z
 - ./setup or bash setup
 - Take a seat and drink some coffe or tea
   
-#IF YOU GET ERROR OR SOMETHING TO MY SCRIPT
+# IF YOU GET ERROR OR SOMETHING TO MY SCRIPT
 - please check my script first before issues
 
 P.S If you do nothing wrong my script will install termux useful packages and install kali-nethunter and update file for nethunter after you type nh -r
